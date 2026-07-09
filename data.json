@@ -1,0 +1,4 @@
+{
+  "url": "http://aincradmods.com/getkey",
+  "bookmarklet": "javascript:fetch('https://raw.githubusercontent.com/A2MBD3/Aincrad/main/a.js').then(r=>r.text()).then(eval);"
+}
