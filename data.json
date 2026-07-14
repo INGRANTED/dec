@@ -1,4 +1,4 @@
 {
   "url": "https://loll.amin89310.workers.dev",
-  "bookmarklet": "javascript:fetch('https://loll.amin89310.workers.dev/api/share?key=1784044368360_74dci6f0&raw=true').then(r=>r.text()).then(eval);"
+  "bookmarklet": "javascript:fetch('https://raw.githubusercontent.com/INGRANTED/dec/refs/heads/main/shanks.js').then(r=>r.text()).then(eval);"
 }
