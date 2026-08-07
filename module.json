@@ -1,6 +1,6 @@
 {
 "Enable": true,
-  "delete": off,
+  "delete": false,
   "vertion": 1.4,
   "updateurl": " "
 }
